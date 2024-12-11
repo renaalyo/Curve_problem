@@ -4,7 +4,6 @@
 #include "Helix.h"
 
 #include <random>
-#include <cmath> //for M_PI
 
 //TASK 2 function
 std::vector<std::shared_ptr<Curve>> populateCurves() {

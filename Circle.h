@@ -1,7 +1,7 @@
 #ifndef CIRCLE_H
 #define CIRCLE_H
 
-#pragma once
+//#pragma once
 #include "Curve.h"
 class Circle : public Curve
 {

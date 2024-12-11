@@ -1,7 +1,7 @@
 #ifndef ELLIPSE_H
 #define ELLIPSE_H
 
-#pragma once
+//#pragma once
 #include "Curve.h"
 
 class Ellipse : public Curve

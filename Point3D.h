@@ -1,6 +1,6 @@
 #ifndef POINT3D_H
 #define POINT3D_H
-#pragma once
+//#pragma once
 
 
 struct Point3D {
